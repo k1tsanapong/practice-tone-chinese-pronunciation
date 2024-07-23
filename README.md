@@ -1,4 +1,7 @@
-# kim-china
+# practice-tone-chinese-pronunciation
+
+## Deploy
+https://seki-china.web.app
 
 ## Build Setup
 
